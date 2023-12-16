@@ -1,0 +1,26 @@
+🛑 Proposal for Google Search Results/Data Extraction 🛑 
+
+Hey there,
+
+ 🔸I came across your project on Upwork and I've got good news for you: I've already implemented a script that does exactly what you're looking for. In fact, I've attached a video of the code in action for your reference. If you decide to work with me, I can quickly send you the source code along with the Excel file containing the extracted URLs.
+
+ 🔸The tech-stack I used is quite straightforward:
+
+✅1. Python: I chose this as the primary language due to its versatility and the powerful libraries it offers.
+✅2. Selenium: This is used to automate the browser interaction. I've gone with a headless browser approach which makes the extraction process seamless and efficient.
+✅3. BeautifulSoup: Once the page is loaded, I use BeautifulSoup to parse the HTML and extract the desired data.
+✅4. Pandas: The data is then handled and saved as an Excel sheet using pandas.
+
+
+ 🔸From my Upwork profile, you might have noticed that my main expertise lies in electronic engineering and robotics. However, I've also developed a strong knack for data scraping and extraction over the years. I've worked on numerous projects using Python, and I'm well-versed in tools like Selenium and BeautifulSoup. So, rest assured, you're in safe hands!
+
+ 🔴 If everything sounds good to you, once you hire me, I’ll send you the source code along with the data in exel file immediately.
+
+ 🔸If you have any questions or need more information, please don’t hesitate to reach out. 
+
+ 🔸Thank you for considering my proposal, and I hope to hear from you soon!
+
+Warm regards,
+Abderahmane
+
+
